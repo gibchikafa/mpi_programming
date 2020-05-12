@@ -1,1 +1,1 @@
-# openmp
+# Parallel Programming with OpenMP
