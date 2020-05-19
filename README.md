@@ -1,3 +1,1 @@
-# mpi_programming
-Parallel Programming Using MPI in C
-
+# Parallel Programming Using MPI in C
